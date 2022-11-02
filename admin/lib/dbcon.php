@@ -1,10 +1,10 @@
 <?php
 //core
 function dbcon(){
-	$user = "medik";
-	$pass = "husad4";
+	$user = "root";
+	$pass = "";
 	$host = "localhost";
-	$db = "inventory";
+	$db = "db_inventory";
 	mysql_connect($host,$user,$pass);
 	mysql_select_db($db);
 }

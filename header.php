@@ -1,15 +1,15 @@
 <?php include('admin/lib/dbcon.php');
-dbcon(); 
+dbcon();
  ?>
 
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <title>RS Bina Husada</title>	
+        <title>Universitas Ibnu Khaldun Bogor</title>
         <meta name="description" content="Technology Resource Inventory System">
 		<meta name="author" content="Jonald Remus Sevellejo">
 		<meta charset="UTF-8">
-		
+
         <!-- Bootstrap -->
 				<link href="images/logo.png" rel="icon" type="image">
 				<link href="admin/bootstrap/css/index_background.css" rel="stylesheet" media="screen"/>

@@ -5,10 +5,10 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</a>
-                   <a class="brand" href="#">Technology Inventory System RS Bina Husada</a>
+                   <a class="brand" href="#">Technology Inventory System Universitas Ibn Khaldun Bogor 2022</a>
 							<div class="nav-collapse collapse">
 								<ul class="nav pull-right">
-	
+
 
 								</ul>
 							</div>
@@ -16,4 +16,3 @@
                </div>
            </div>
 </div>
-	

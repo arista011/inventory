@@ -1,18 +1,18 @@
 <?php include('admin/lib/dbcon.php');
-dbcon(); 
+dbcon();
  ?>
 
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <title>Technology Inventory System RS Bina Husada</title>
+        <title>Technology Inventory System Universitas Ibn Khaldun Bogor 2022</title>
 		<meta name="description" content="Technology Resource inventory System">
 		<meta name="author" content="Jonald Remus Sevellejo">
-		<meta charset="UTF-8">	
-		
+		<meta charset="UTF-8">
+
         <!-- Bootstrap -->
 		<link href="images/logo.png" rel="icon" type="image">
-		<link href="technical staff/css/my_style.css" rel="stylesheet">	
+		<link href="technical staff/css/my_style.css" rel="stylesheet">
         <link href="admin/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
         <link href="admin/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
         <link href="admin/bootstrap/css/font-awesome.css" rel="stylesheet" media="screen">
@@ -39,5 +39,5 @@ dbcon();
 		<link rel="stylesheet" type="text/css" href="admin/vendors/bootstrap-wysihtml5/src/bootstrap-wysihtml5.css"></link>
 		<link href="admin/vendors/jGrowl/jquery.jgrowl.css" rel="stylesheet" media="screen">
 		<script src="admin/vendors/jGrowl/jquery.jgrowl.js"></script>
-		
+
     </head>
